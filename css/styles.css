@@ -56,3 +56,16 @@ footer {
   text-transform: uppercase;
   color: #4d5ae5;
 }
+.studio{
+  color: #2e2f42
+}
+.item{
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
+.item:hover{
+  color: #404bbf;
+}
