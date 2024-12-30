@@ -70,14 +70,14 @@ body {
 .button-order:focus {
   background-color: #404bbf;
 }
-.sec2-bas3 {
+.seciki-basuc {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
   letter-spacing: 0.02em;
   color: #2e2f42;
 }
-.sec2-parag {
+.seciki-parag {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
@@ -86,7 +86,7 @@ body {
 .section-three {
   background-color: #f4f4fd;
 }
-.sec3-bas2 {
+.secuc-basiki {
   font-size: 36px;
   line-height: 1.11;
   text-align: center;
@@ -94,23 +94,23 @@ body {
   text-transform: capitalize;
   color: #2e2f42;
 }
-.sec3-li {
+.secuc-li {
   background-color: #ffffff;
 }
-.sec3-bas3 {
+.secuc-basuc {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
   letter-spacing: 0.02em;
   color: #2e2f42;
 }
-.sec3-parag {
+.secuc-parag {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #434455;
 }
-.sec4-bas2 {
+.secdort-basiki {
   font-size: 36px;
   line-height: 1.11;
   text-align: center;
@@ -118,23 +118,23 @@ body {
   text-transform: capitalize;
   color: #2e2f42;
 }
-.sec4-bas3 {
+.secdort-basuc {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
   letter-spacing: 0.02em;
   color: #2e2f42;
 }
-.sec4-parag {
+.secdort-parag {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #434455;
 }
-.footer-class {
+.altkisim-class {
   color: #2e2f42;
 }
-.footer-paragraf {
+.altkisim-paragraf {
   line-height: 1.5;
   color: #f4f4fd;
   letter-spacing: 0.02em;
