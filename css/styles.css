@@ -1,0 +1,47 @@
+body {  
+  font-family: "Roboto";
+  line-height: 1.5;
+}
+.hero-area {
+  border: 1px solid red;
+  text-align: center;
+  background-color: #2e2f42;
+  color: white;
+}
+h1{
+    font-size: 56px;
+    line-height: 1.1;
+}
+h2{
+    font-size: 36px;   
+}
+
+a:hover {
+  color: red;  
+}
+a:active{
+    color: orange;
+}
+.button-order {
+  background-color: #4d5ae5;
+  color: white;
+  cursor: pointer;
+  line-height: 1.5;
+}
+.button-order:hover {
+  color: greenyellow;
+}
+.ourteam {
+  text-align: center;
+  background-color: #f4f4fd;
+}
+team-section {
+  background-color: #f4f4fd;
+}
+footer {
+  background-color: #2e2f42;
+  color: white;
+}
+.ourportfolio {
+  text-align: center;
+}
