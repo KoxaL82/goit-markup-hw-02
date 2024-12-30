@@ -1,6 +1,8 @@
 body {  
-  font-family: "Roboto";
+  font-family: "Roboto",sans-serif;
   line-height: 1.5;
+  color: #434455;
+  background-color: #FFFFFF;
 }
 .hero-area {
   border: 1px solid red;
@@ -44,4 +46,13 @@ footer {
 }
 .ourportfolio {
   text-align: center;
+}
+.logo{
+  font-family: "Raleway";
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 1.17;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  color: #4d5ae5;
 }
