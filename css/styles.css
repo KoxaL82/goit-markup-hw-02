@@ -14,7 +14,7 @@ body {
   color: #4d5ae5;
 }
 .nav-studio {
-  background-color: #2e2f42;
+  color: #2e2f42;
 }
 .item {
   font-weight: 500;
@@ -138,4 +138,7 @@ body {
   line-height: 1.5;
   color: #f4f4fd;
   letter-spacing: 0.02em;
+}
+.alt-studio {
+  color: #2e2f42;
 }
