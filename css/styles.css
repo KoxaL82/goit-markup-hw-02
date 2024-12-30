@@ -4,49 +4,6 @@ body {
   color: #434455;
   background-color: #FFFFFF;
 }
-.hero-area {
-  border: 1px solid red;
-  text-align: center;
-  background-color: #2e2f42;
-  color: white;
-}
-h1{
-    font-size: 56px;
-    line-height: 1.1;
-}
-h2{
-    font-size: 36px;   
-}
-
-a:hover {
-  color: red;  
-}
-a:active{
-    color: orange;
-}
-.button-order {
-  background-color: #4d5ae5;
-  color: white;
-  cursor: pointer;
-  line-height: 1.5;
-}
-.button-order:hover {
-  color: greenyellow;
-}
-.ourteam {
-  text-align: center;
-  background-color: #f4f4fd;
-}
-team-section {
-  background-color: #f4f4fd;
-}
-footer {
-  background-color: #2e2f42;
-  color: white;
-}
-.ourportfolio {
-  text-align: center;
-}
 .logo{
   font-family: "Raleway", sans-serif;
   font-weight: 700;
@@ -87,8 +44,44 @@ footer {
 .adr:focus{
   color: #404bbf
 }
+.section-1{
+  background-color: #2e2f42;
+}
+.baslik-1{
+  font-size: 56px;
+  line-height: 1.07;
+  text-align: center;
+  letter-spacing: 0.02em;
+  color: #ffffff';  
+}
+.button-order{
+  background-color: #4D5AE5;
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
+  color: #ffffff;
+  cursor: pointer;
+}
+.button-order:hover{
+  background-color: #404BBF;
+}
+.button-order:focus{
+  background-color: #404BBF;
+}
+
+
+
+
+
+
+
 .footer-paragraf{
   line-height: 1.5;
   color: #F4F4FD;
   letter-spacing: 0.02em;
+}
+.footer-class{
+  color: #2e2f42;
 }
